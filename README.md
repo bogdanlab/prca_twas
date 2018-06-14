@@ -5,7 +5,7 @@ The repository contains the main results for the transcriptome-wide association 
 
 *Large-scale transcriptome-wide association study identifies new prostate cancer risk regions*,
 Nicholas Mancuso, Simon Gayther, Alexander Gusev, Wei Zheng, Kathryn L. Penney, the PRACTICAL consortium, CRUK, BPC3,
-CAPS, PEGASUS, Zsofia Kote-Jarai, Rosalind Eeles, Matthew Freedman, Christopher Haiman, Bogdan Pasaniuc. bioRxiv 2018.
+CAPS, PEGASUS, Zsofia Kote-Jarai, Rosalind Eeles, Matthew Freedman, Christopher Haiman, Bogdan Pasaniuc. [bioRxiv 345736; doi: https://doi.org/10.1101/345736](https://www.biorxiv.org/content/early/2018/06/14/345736)
 
 Results
 -------
