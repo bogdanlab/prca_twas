@@ -56,6 +56,8 @@ Results
 Software and support
 --------------------
 For performing TWAS using summary-data, computing expression weights using custom expression panels,
-and additional post-TWAS analyses please see [FUSION](http://github.com/gusevlab/fusion_twas).
+and additional post-TWAS analyses please see [FUSION](http://github.com/gusevlab/fusion_twas). See
+also [TWAS hub](http://twas-hub.org/) for interactively exploring hundreds of large-scale TWAS 
+results.
 
 If you have any questions or comments please contact nmancuso@mednet.ucla.edu
